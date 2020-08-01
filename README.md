@@ -12,6 +12,6 @@ Introduction and Download Link: http://www.ehu.eus/ccwintco/index.php/Hyperspect
 
 ## Main References :+1:
 
-1. [Spatial-Aware Collaborative Representation for Hyperspectral Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/7820148)
+[1] [Spatial-Aware Collaborative Representation for Hyperspectral Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/7820148)
 
-2. [Information-theoretic metric learning](https://dl.acm.org/doi/abs/10.1145/1273496.1273523)
+[2] [Information-theoretic metric learning](https://dl.acm.org/doi/abs/10.1145/1273496.1273523)
